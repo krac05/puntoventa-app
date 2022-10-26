@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-puntoventa-dev-112605-authRole",
+      "UnauthRoleArn": "arn:aws:iam::027945283389:role/amplify-puntoventa-dev-112605-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::027945283389:role/amplify-puntoventa-dev-112605-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-puntoventa-dev-112605-deployment",
+      "UnauthRoleName": "amplify-puntoventa-dev-112605-unauthRole",
+      "StackName": "amplify-puntoventa-dev-112605",
+      "StackId": "arn:aws:cloudformation:us-east-2:027945283389:stack/amplify-puntoventa-dev-112605/e50fc430-554a-11ed-be00-0a8725cb7904",
+      "AmplifyAppId": "d3uy9arybrkrnz"
+    },
+    "categories": {
+      "auth": {
+        "puntoventafcb28879": {}
+      }
+    }
+  }
+}
